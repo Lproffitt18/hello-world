@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>About Me</title>
+</head>
+
+<body>
+    <h1>About Me</h1>
+    <h2>Education</h2>
+    <p>I am currently pursuing an Accounting Associates in Applied Science through Mchenry County College. </p>
+    <h2>Hobbies</h2>
+    <p>I am into art. I really enjoy acrylic painting and makeup. I also like to cook and love science fiction and fantasy novels, movies and TV.</p>
+    <h2>Pets</h2>
+    <p>I have three dogs. One is a pitbill, her name is Reya. I have two mutts mixed of more than two breeds, both males, named Cash and Bociphus. I also have three cats. An orange cat named Weeman, a striped brown, white, and black on named Savannah, and a fluffy Calico named Shirley.</p>
+</body>
+
+</html>
